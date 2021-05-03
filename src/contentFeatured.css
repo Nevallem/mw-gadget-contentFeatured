@@ -1,0 +1,41 @@
+#cf-create {
+	font-family: tahoma;
+}
+
+
+#cf-create-page-notExist {
+	display: none;
+	color: gray;
+	font-size: smaller;
+}
+
+#cf-close-stopPoll-justification {
+	height:200px;
+	width:100%;
+	display: none;
+}
+
+#cf-close-run {
+	cursor: pointer;
+}
+
+#cf-create .cf-create-label {
+        padding: 5px;
+}
+
+.cf-box {
+	display: block;
+	padding: 2px;
+}
+
+.cf-missing {
+	border: 1px solid red;
+}
+
+.cf-create-page-OK {
+	color: green;
+}
+
+.cf-create-page-invalid {
+	color: red;
+}
